@@ -1,0 +1,12 @@
+.first-step {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    flex-direction: column;
+}
+
+.first-image {
+    width: 40%;
+    object-fit: cover;
+}
