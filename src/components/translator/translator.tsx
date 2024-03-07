@@ -1,4 +1,3 @@
-import { useState } from "react";
 import "./translator.css";
 import { TypeAnimation } from "react-type-animation";
 

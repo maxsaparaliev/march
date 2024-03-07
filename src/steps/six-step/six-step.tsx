@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "./six-step.css";
 import { ImageHolder } from "../../components/image-holder/image-holder";
 import sixImage from "../../static/six-step.jpg";
 import { Translator } from "../../components/translator/translator";

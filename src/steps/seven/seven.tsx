@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "./seven.css";
 import { ImageHolder } from "../../components/image-holder/image-holder";
 import sevenImage from "../../static/seven.jpg";
 import { Translator } from "../../components/translator/translator";

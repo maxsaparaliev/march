@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "./thirteen.css";
 import { ImageHolder } from "../../components/image-holder/image-holder";
 import TwelveImage from "../../static/thirteen.jpg";
 import { Translator } from "../../components/translator/translator";

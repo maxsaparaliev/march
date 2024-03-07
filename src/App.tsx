@@ -43,7 +43,6 @@ function App() {
       setStep(parseInt(queryStep));
     }
   }, [step]);
-
   const onFirstEnd = () => {
     setStep(2);
     updateQueryParams({ step: "2" });

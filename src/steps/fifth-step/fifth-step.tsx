@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "./fifth-step.css";
 import { ImageHolder } from "../../components/image-holder/image-holder";
 import fifthImage from "../../static/fifth.jpg";
 import { Translator } from "../../components/translator/translator";
